@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the procedings at Surry-Assizes holden at Kingston upon Thames, which began on Munday the 19th of this instant July and ended on Thursday the two and twentieth following : giving an account of most of the remarkable trials there, more particularly of the persons condemned to die, viz. Thomas Smith, alias Vavazar, for robbing on the high-way, Isiah Trot, Mary Trot, David Searl for fellonies and burglaries, Thomas Goodier for the same, James Christian for murdering Robert Burril the waterman, Francis Stoker and William Gandy for horstealing : with an account of those burn'd in the hand, transported, and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63583</idno>
+            <idno type="STC">Wing T2812</idno>
+            <idno type="STC">ESTC R27021</idno>
+            <idno type="EEBO-CITATION">09618980</idno>
+            <idno type="OCLC">ocm 09618980</idno>
+            <idno type="VID">43827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the procedings at Surry-Assizes holden at Kingston upon Thames, which began on Munday the 19th of this instant July and ended on Thursday the two and twentieth following : giving an account of most of the remarkable trials there, more particularly of the persons condemned to die, viz. Thomas Smith, alias Vavazar, for robbing on the high-way, Isiah Trot, Mary Trot, David Searl for fellonies and burglaries, Thomas Goodier for the same, James Christian for murdering Robert Burril the waterman, Francis Stoker and William Gandy for horstealing : with an account of those burn'd in the hand, transported, and to be whipt.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43827:1"/>
+            <pb n="1" facs="tcp:43827:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEDINGS AT Surry-ASSIZES, HOLDEN <hi>At Kingſtone upon Thames:</hi> Which began on Munday the 19th of this inſtant <hi>July,</hi> and ended on Thurſday the two and twentieth following.</head>
+            <argument>
+               <p>Giving an Account of moſt of the remarkable Trials there, more particularly of the Perſons Condemned to die. <hi>viz,</hi> Thomas Smith <hi>alias</hi> Vavazar, for Robbing on the High-way, Iſaiah Trot, Mary Trot, David Searl for Fello<g ref="char:EOLhyphen"/>nies and Burglaries. Thomas Goodier, for the ſame; James Chriſtian for Murdering Robert Burtil the Waterman, Francis Stoker and William Gan<g ref="char:EOLhyphen"/>dy for Horſtealing. with an account of thoſe burn'd in the hand, Tranſport<g ref="char:EOLhyphen"/>ed and to be whipt.</p>
+            </argument>
+            <p>
+               <hi>MArk Smith,</hi> alias <hi>Vavazar,</hi> and <hi>Thomas Smith,</hi> were In<g ref="char:EOLhyphen"/>dicted and Arraigned, for that they, in the Compa<g ref="char:EOLhyphen"/>ny of ſeven more, did ſet upon three ſeveral perſons, in the Kings High-way, near a place called <hi>Peckham-Gap,</hi> between the Half-way-houſe, and Kentſtreet end; the firſt of which be<g ref="char:EOLhyphen"/>ing one <hi>John Wakeman.</hi> a Country Farmer, who when they had knocked him off his Horſe, did beat and abuſe him moſt barba<g ref="char:EOLhyphen"/>rouſly; rifl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him of what monies he had about him, whilſt this was doing, came Riding up one Mr. <hi>Alderſon,</hi> which they per<g ref="char:EOLhyphen"/>ceiving, ſo bold they were, as to leave one of their Gang with a naked ſword, to watch <hi>Wakenian</hi> before mentioned; whilſt the other eight went and ſet upon him, bidding him ſtand and deli<g ref="char:EOLhyphen"/>ver, and by odds of number, ſoon overpowered him, while this was doing, up came one <hi>John Carter,</hi> driving an empty Coach,
+<pb n="2" facs="tcp:43827:2"/>whom they endeavoured likewiſe to ſurpriſe; But he with his Whip defended himſelf till he got clear of them, the reaſon of which was, becauſe the two beforementioned, made reſiſtance; ſo that the Thieves fearing to be overpowered, was forced to be contented with what Plunder they had got, but the two Priſo<g ref="char:EOLhyphen"/>ners ſhortly after being apprehended, were committed, and now upon their Trials Mr. <hi>Alderſon</hi> ſwore the former to be one of them that robed him; and that he hold him with one hand, and ſearched his Pockets with the other, upon which he was found Guilty of the Robery but there being no poſitive proof againſt the latter, he was acquitted; yet notwithſtanding he being a no<g ref="char:EOLhyphen"/>torious Thief, and ſuppoſed to be in this Robery, was continued in Priſon till he could find Sureties for his good B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haviour.</p>
+            <p>
+               <hi>Iſubel Ganding,</hi> alias <hi>Gurdian,</hi> a notorious Offendor, was tried for ſtealing a Diamond Ring valued at 14 pounds, a ſtone Ring, vallued at four pounds, another Ring vallued at forty ſhillings; a ſilver Cup at fifty ſhillings, and other good of Vallue, out of the Chamber of one Mrs. <hi>Pinchbeck</hi> in <hi>Covent-garden,</hi> the Rings ſhe pawn'd to a Br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aker in Kentſtreet for three pound, ſaying that her Husband was, a Chirurgion living in the Park, and that he had them of his Patients to borrow monies on them, for his and their occaſions, But not long after, printed Bills coming out for the ſtaying ſuch Goods, The Broaker made known the re<g ref="char:EOLhyphen"/>ceiving of them to the next Juſtice of Peace, and in a ſhort ſpace afterwards found out the now Priſoner, and cauſed her to be ap<g ref="char:EOLhyphen"/>prehended, ſhe pleaded at the Bar that ſhe only pawned them for a Gentlewoman, but the ſaid Woman not being to be found ſhe was brought in Guilty to the Vallue of ſeven and ſix pence.</p>
+            <p>
+               <hi>Robert Haſel</hi> a Man about 60 years of Age, was tried for Bar<g ref="char:EOLhyphen"/>barouſly murthering one <hi>Charles Bragg,</hi> the circumſtances thus, the deceaſed coming to untruſs a Point againſt the Priſoners Wall he came out and fell upon him after a moſt inhuman man<g ref="char:EOLhyphen"/>ner; Beating and Kicking him when he was down and rubing his Ord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er in his Face, ſo that the deceaſed being a ſick weak Man, was no ways able to defend himſelf; he being carrled home to his Houſe in the Pariſh of St. <hi>Mary Newington Buts,</hi> from the Priſoner, in leſs than three days ſpace he died Vomiting Blood extreamly. To the Proof of this the Priſoner pleaded provocati<g ref="char:EOLhyphen"/>on, but there being none teſtified or made out, nor th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he de<g ref="char:EOLhyphen"/>ceaſed gave the Priſoner ſo much as an ill Word, he was brought in Guilty of Manſlaughter only, the which by many was con<g ref="char:EOLhyphen"/>jectured to be in reſpect of his Age.</p>
+            <pb n="3" facs="tcp:43827:2"/>
+            <p>
+               <hi>Nicholas Catman</hi> was likewiſe Tried for the Murther of his Brother Water<g ref="char:EOLhyphen"/>man, the circumſtances thus, a perſon of Quality coming to take Water at the New Exchange Stairs, there aroſe a Conteſt between the deceaſed and the Pri<g ref="char:EOLhyphen"/>ſoner, about carrying him; which grew ſo hot, that as the Witneſſes ſwore, he ſtrook the Priſoner over the head, and run his Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t-ſtaff into his Mouth ma<g ref="char:EOLhyphen"/>king it bleed exceſſively; whereupon, the Priſoner enraged, took up his ſtret<g ref="char:EOLhyphen"/>cher, and with the ſame gave him ſuch a blow on the forepart of the head as broke his Scull, of which in a ſhort time he died; but by reaſon of the feud that happened between them the jury perceived it was no premeditated Mallice, and ſo brought him in Guilty of Manſlaughter only.</p>
+            <p>Thomas Goodgier was Indicted for breaking open the Houſe of <hi>Jane P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wel,</hi> in St. Olives Southwark, and taking from thence one Silver Cup vallued at forty ſhillings, and ſeveral other Goods to a conſiderable vallue, to which In<g ref="char:EOLhyphen"/>dictment he pleaded Guil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, nor could be perſwaded to do otherwiſe, the Goods be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng delivered to one Elizabeth Terry to diſpoſe of, ſhe was likewiſe Indicted for a cheriſher of Thieves, and found Guilty of the ſame, though ſhe pleaded ignorance, and alledged ſhe knew not in the leaſt that they were ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>len Goods. but that he told her he had them of eminent perſons to ſell for them, by reaſon they were aſhamed to be ſeen ſelling of them themſelves.</p>
+            <p>Iſai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Trot, Mary Trot, David, Searl, Roger M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den and Simon Hiat, alias Lee, were Indicted for breaking open the Shop of one Mr. Collins in the Pa<g ref="char:EOLhyphen"/>riſh of St. Olives Southwark, on the twenty third of March laſt, the circum<g ref="char:EOLhyphen"/>ſtances as followeth, Mary Trot coming into the aforeſaid Collins's Shop cheap<g ref="char:EOLhyphen"/>ened ſome Sea Linnen, but not agreeing for it, went out again, and as ſhe went, out ogain, and as ſhe went was obſerved to mark the faſtnings of the Dore and with Chaulk ſet A C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thereon, the next night after this; the Shop being Rob'd of Ribbon, Flannel, Call coes, Shf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts. Holland, Doulas, and ſeveeal other goods to the vallue of 30 pounds and upwards, upon ſearch part or the Goods were found where Mary Trot the Priſoner had ſold them, who being apprehended confeſſed the Fact, as likewiſe another part was found in the cuſtody of Iſaiah Trot a ſhirt and pair of Drawers upon David Searl who was then in <hi>Newgate</hi> ſo that upon full evidence and their former Confeſſions, they were found Guilty of the Fellony and Burglary, but Maden and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iat being only Indicted as Acceſſa<g ref="char:EOLhyphen"/>ry, were acquitted of that Indictment but Maden being known to be a notorious Offendor the Court ordered a ſecond to be drawn up againſt him as for being a principle in the Robery, of which there being no poſitive proof, he was likewiſe acquitted.</p>
+            <p>Iames Chriſtian who laſt Aſſizes received Sentance of Death, for murthering one Robert Burril a waterman, in the Pariſh of Roderiff, by ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iking him over the head and face with a Rope and a Boat-hook at the end of it, having got a Par<g ref="char:EOLhyphen"/>don, was this Aſſixes appeal'd by the Wife of the deceaſed, and upon the ſaid Appeal tried again, and it was proved againſt him, that the deceaſed being in his Boat aſleep, upon ſome former grudg the Priſoner ſtrook him over the head with the aforeſaid Boat hook, and giving him one mortal wound in the fore<g ref="char:EOLhyphen"/>part of the head of which after ſix weeks languiſhing he died, ſo that there be<g ref="char:EOLhyphen"/>ing many threatnings proved that the Priſoner had given the deceaſed, before that time, and had often beat him, forethought Mallice was adjudged, and he was brought in guilty of the Murther upon the Appeal aforeſaid.</p>
+            <p>Randal Baſſet, Mary Baſſet, Iohn Baſſet, and Mary Harman were Indicted for the murther of a certain perſon found drowned in a Horſe pond in the yard of Randal Baſſet of Farla Green, it was proved the man was drinking in the houſe ſomewhat late, and that he was found dead in the water the ſame night or the
+<pb n="4" facs="tcp:43827:3"/>next morning, by <hi>John Baſſet,</hi> to which the Priſoners pleaded, that he went out from thence, and that they did believe he being over powered with drink, might fall in, and for want of help, there periſh; ſo that there being no other Evidence than bare ſuſpicion, they were acquitted, and order given for the ſuppreſ<g ref="char:EOLhyphen"/>ſing their Licenſe—</p>
+            <p>
+               <hi>Francis Stoaker</hi> received his Trial for ſtealing a Gelding val<g ref="char:EOLhyphen"/>lued at 6 pounds from one <hi>Nicholas Comes,</hi> the which he ſold to one <hi>Hadlar</hi> at <hi>Croydon,</hi> who being apprehended, brought out the now Priſoner; who pleaded that the Gelding was none of his, but that he ſold him for another man; but proof being brought, that the Priſoner took the monies for him, and was ſo curious as to throw back one Braſs ſhilling, he was found guilty.</p>
+            <p>
+               <hi>William Gandy</hi> was likewiſe tried for ſtealing a Horſe, which being found in his poſſeſſion, he could not deny the Theft, and</p>
+            <p>
+               <hi>George Clark</hi> and <hi>Mary Clark</hi> of the <hi>Mint</hi> in <hi>Southwaok</hi> were Indicted for High Treaſon, for that they had Clipped and Coin<g ref="char:EOLhyphen"/>ed the Kinge Coin, five pounds of Cliped monies being upon ſearch found upon the Table, ſeveral pieces of melted Silver, Cruſibles and ſeveral other Coining Inſtruments, the which they denied to be theirs, ſo that for want of a ſtronger Evidence they were acquitted.</p>
+            <p>
+               <hi>Thomas Prick-Advance,</hi> was Indicted for ſtealing ſeveral goods and was brought in Guilty to the Vallue of ſix pence. <hi>Sammuel Hurſt</hi> was Indicted for picking the Pocket of one <hi>Roger Eldrid</hi> at <hi>Faruham,</hi> and taking from him four ſhillings and a Purſe, which being proved upon him, he was found guilty.</p>
+            <p>There were in all eight Condemned to die, four burn'd in the hand, two to be tranſported and five to be whipt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43827:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
